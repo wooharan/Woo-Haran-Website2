@@ -744,7 +744,7 @@ margin-bottom: .3em;
 	font-size: 1.1em;
 	line-height: 2em;
 	margin-bottom: .5em;
-	margin-top: 2em;
+	margin-top: 9em;
 	color:#dedfec; 
 }
 .list{
@@ -877,7 +877,6 @@ margin-bottom: .3em;
 		margin-left: 9%;
 	}
 
-
 }
 
 @media screen and (min-width: 900px){
@@ -906,7 +905,7 @@ margin-bottom: .3em;
 /*footer*/
 
 .site-footer {
-	margin-top: 5em;
+	margin-top: 12em;
 }
 .site-footer p{
 	font-family: 'M PLUS 1', sans-serif;
@@ -929,10 +928,21 @@ margin-bottom: .3em;
 	width: 35px;
 }
 .instagram img{
-	width: 32px;
+	margin-top: 5px;
+	margin-left: -5px;
+	width: 26px;
 }
 
 .youtube svg{
 		stroke-width: 1px; 
 		fill: none;
+}
+
+
+@media screen and (min-width: 700px){
+	.site-footer{
+		margin-right: -2.5%;
+		margin-left: -2.5%;
+	}
+
 }
