@@ -558,9 +558,11 @@ letter-spacing: .005em;
 	margin-top: .4em;
 }
 .work_duration2{
-	font-size: .7em;
-	margin-top: .58em;
-	margin-left: .25em;
+	font-family: 'Anek Gujarati', serif;
+	font-size: .8em;
+	margin-top: .9em;
+	margin-left: 0em;
+	margin-bottom: 1em;
 }
 .work_title_korean{
 font-family: 'Noto Serif KR', serif;
@@ -606,14 +608,15 @@ margin-bottom: .3em;
 
 @media screen and (min-width: 600px){
 	.work_headline{
-		display: flex;
 		margin-top: 8em;
 	}
 	.work_year2{
 		margin-left: .6em;
 	}
+	.work_firstline{
+		display: flex;
+	}
 }
-
 @media screen and (min-width: 700px){
 	.space_h {
 		margin-top: 2em;
@@ -684,7 +687,7 @@ margin-bottom: .3em;
 
 }
 .bio{
-	margin-top: 4em;
+	margin-top: 3em;
 	font-family: 'M PLUS 1', sans-serif;
 	text-align: left;
 	font-size: .80em;
@@ -713,20 +716,57 @@ margin-bottom: .3em;
 }
 
 .bio_paragraph{
+	font-family: "Red Hat Text", sans-serif;
+	font-weight: 300;
+
 	margin-bottom: 1.2em;
-	line-height: 2.2em;
+	line-height: 2.5em;
+	font-size: 1.066em;
+}
+.bio_paragraph2{
+margin-top: -.7em;
+}
+.bio_background{
+margin-left: -20%;
+margin-right: -150%;
+}
+
+
+.bio_paragraph_artist{
+	font-family: 'M PLUS 1', sans-serif;
+	margin-bottom: 1.2em;
+	line-height: 2.8em;
+	margin-top: 5.5em;
+	font-weight: 200;
+	padding-left: 7%;
+	padding-right: 7%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	max-width: 37%;
+	margin-left: .6em;
+	background: 
+	radial-gradient(circle at center, transparent, transparent 50%, #000 51%),
+	conic-gradient(from 0deg, #272931, transparent 25%, #2b2d37 50%, transparent 75%, #272931 100%);
+}
+	
+
+
+
+
+.artist{
+	font-size: 1.5em;
 }
 
 .bio_paragraph_work{
 	margin-top: -2.5em;
 	margin-bottom: 4.8em;
 	font-size: 1.14em;
-		font-family: "Nanum Myeongjo", serif;
-		font-weight: 400;
-		font-style: normal;
-		color:rgb(238, 236, 251);
-		line-height: 2.6em;
-	  }
+	font-family: "Nanum Myeongjo", serif;
+	font-weight: 400;
+	font-style: normal;
+	color:rgb(238, 236, 251);
+	line-height: 2.6em;
+}
 
 
 .resume{
@@ -740,8 +780,8 @@ margin-bottom: .3em;
 	line-height: 1.7em;
 }
 .achievements{
-	font-weight: bold;
-	font-size: 1.1em;
+	font-family: 'Anek Gujarati', serif;
+	font-size: 1.4em;
 	line-height: 2em;
 	margin-bottom: .5em;
 	margin-top: 9em;
@@ -775,8 +815,8 @@ margin-bottom: .3em;
 	margin-right: -.5em;
 }
 .Works{
-	font-weight: bold;
-	font-size: 1.1em;
+	font-family: 'Anek Gujarati', serif;
+	font-size: 1.4em;
 	margin-bottom: .5em;
 	margin-top: 2em;
 	color:#dedfec; 
@@ -856,6 +896,10 @@ margin-bottom: .3em;
 	.bio_role{
 		font-size: 1.1em;
 	}
+	.bio_paragraph_artist{
+		margin-left: 0em;
+	}
+
 }
 
 @media screen and (min-width: 570px){
@@ -870,8 +914,14 @@ margin-bottom: .3em;
 	.bio_role{
 		font-size: 1.5em;
 	}
+	.bio_background{
+		margin-left: -10%;
+		margin-right: -125%;
+		}
 }
 @media screen and (min-width: 700px){
+
+
 	.creator_body{
 		margin-right: 9%;
 		margin-left: 9%;
@@ -880,6 +930,9 @@ margin-bottom: .3em;
 }
 
 @media screen and (min-width: 900px){
+	.achievements{
+		margin-bottom: 1em;
+	}
 
 	.bio{
 		font-size: .85em;
@@ -892,13 +945,16 @@ margin-bottom: .3em;
 	}
 }
 
-@media screen and (min-width: 1000px){
-
-	
+@media screen and (min-width: 1000px){	
 .bio_intro{
 	font-size: .9em;
 }
+.bio_background{
+	margin-left: -10%;
+	margin-right: -125%;
+	}
 }
+
 
 
 
