@@ -528,6 +528,7 @@ margin-bottom: .3em;
 }
 
 .line{
+	margin-top: 1em;
 	color:#edecff; 
 	height: 0px;
 }
