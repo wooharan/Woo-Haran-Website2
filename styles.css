@@ -9,7 +9,7 @@ body, html {
 }
 
 
-.thumbnails{
+.thumbnails{ 
 	display: flex;
     flex-direction: column;
     align-items: center; 
@@ -730,8 +730,8 @@ margin-right: -150%;
 
 }
 .email3{
-	margin-left: 1.3em;
-	margin-bottom: -2em;
+	margin-left: 2.5em;
+	margin-bottom: -1.6em;
 	color: rgb(239, 239, 255);
 	font-family: "Saira Condensed", sans-serif;
 }
