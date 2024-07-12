@@ -394,7 +394,7 @@ margin-bottom: .3em;
 }
 .bio_englishname{
 	font-family: "Urbanist", sans-serif;
-	font-size: 2em;
+	font-size: 1.7em;
 	margin-bottom: 0.4em;
 	max-width: 200px;
 }
@@ -404,7 +404,7 @@ margin-bottom: .3em;
 
 .bio_name{
 	font-family: "Nanum Myeongjo", serif;
-	font-size: 1.7em;
+	font-size: 2.4em;
 	margin-bottom: .47em;
 	margin-top: 1em;
 	font-style: bold;
@@ -414,7 +414,7 @@ margin-bottom: .3em;
  max-width: 180px;
  mix-blend-mode: lighten;
  margin-top: -1.6em;
- margin-left: -4.2em;
+ margin-left: -3.5em;
 }
 
 .bio_name2{
@@ -435,7 +435,9 @@ margin-bottom: .3em;
 	margin-bottom: 1.2em;
 	margin-left: 1em;
 }
-
+.bio_paragraph0{
+	max-width: 690px;
+}
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
 	font-weight: 300;
@@ -606,11 +608,7 @@ margin-right: -150%;
 	color: rgb(239, 239, 255);
 	font-family: "Saira Condensed", sans-serif;
 }
-@media screen and (min-width: 422px){
-	.bio_name img{
-		margin-top: -2em;
-	}
-}
+
 
 @media screen and (min-width: 470px){
 	.creator_body{
@@ -619,10 +617,11 @@ margin-right: -150%;
 		margin-left: 5%;
 	}
 	.bio_name{
-		font-size: 1.8em;
+			font-size: 2.4em;
 	}
 	.bio_name img{
-		margin-top: -2em;
+		margin-top: -1.6em;
+		margin-left: -2.8em;
 	}
 	.bio_role{
 		font-size: 1.1em;
@@ -632,12 +631,7 @@ margin-right: -150%;
 	}
 	.bio_intro{
 		margin-bottom: 0em;
-}	
-@media screen and (min-width: 517px){
-	.bio_name img{
-		margin-top: -1.9em;
-	}
-}
+	}	
 }
 
 
@@ -688,11 +682,6 @@ margin-right: -150%;
 	}
 	.bio_name img{
 		max-width: 200px;
-		margin-left: -3.1em;
-		margin-bottom: .4em;
-	}
-	.bio_englishname{
-		font-size: 2.3em;
 	}
 	.bio_name2{
 		margin-top: -1.7em;
