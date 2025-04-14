@@ -12,7 +12,6 @@ body, html {
 
 .thumbnail1 img{
 	width: 100%;
-	mix-blend-mode: lighten;
 }
 
 .thumbnail11 img{
@@ -315,6 +314,7 @@ display: inline-block;
 
 .bio_paragraph0{
 	margin-left:10%;
+	margin-right:10%;
 }
 }
 
