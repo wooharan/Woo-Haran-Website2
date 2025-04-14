@@ -588,16 +588,19 @@ margin-right: -150%;
 
 
 .bio_paragraph_artist{
-
+	font-family: "Red Hat Text", sans-serif;
+	font-size: 1.0em;
+	line-height: 2.2em;
+	
 	margin-bottom: 1.2em;
 	margin-top: 5.5em;
 	padding-left: 7.2%;
 	padding-right: 7%;
 	padding-top: 3%;
 	padding-bottom: 3%;
+	
 	max-width: 37%;
-	margin-left: .6em;
-
+	
 }
 	
 
