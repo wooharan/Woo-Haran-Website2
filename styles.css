@@ -1,7 +1,6 @@
 body{
 	background-color:black;
 	margin-top: 1em;
-	overflow-x: hidden;
 	overflow-y: auto;
 }
 body, html {
@@ -163,9 +162,7 @@ text-color:#edecff;
 
 
 .bio_intro{
-	font-family: 'M PLUS 1', sans-serif;
 	text-align: left;
-	font-size: .85em;
 	color:#edecff; 
 	padding: .5em;
 	letter-spacing: .005em;
@@ -198,7 +195,6 @@ text-color:#edecff;
 	font-size: 2.4em;
 	margin-bottom: .47em;
 	margin-top: 1em;
-	font-style: bold;
 	display: flex;
 }
 .bio_name img{
@@ -234,7 +230,6 @@ text-color:#edecff;
 }
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
-	font-weight: 300;
 	margin-bottom: 1.2em;
 	line-height: 2.2em;
 	font-size: 1.0em;
