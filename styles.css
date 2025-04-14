@@ -296,7 +296,9 @@ margin-bottom: .3em;
 	padding-right: .8em;
 }
 
-
+.creator_body{
+display: column;
+}
 
 .bio_role b{
 	font-family: "Marcellus", serif;
