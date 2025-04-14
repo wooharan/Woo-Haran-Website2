@@ -333,7 +333,7 @@ display: inline-block;
     text-align: left;
 	margin-bottom: 3em;
 	line-height: 2.2em;
-	font-size: 1.0em;
+	font-size: 0.78em;
 }
 
 
@@ -388,7 +388,9 @@ display: inline-block;
 	.bio{
 		font-size: .85em;
 	}
-
+.bio_paragraph_work{
+font-size: 1em;
+}
 
 }
 
