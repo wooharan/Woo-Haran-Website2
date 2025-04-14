@@ -336,12 +336,14 @@ margin-right: .5em;
 
 .bio_paragraph_work{
 display: inline-block;
-    justify-content:left; /* Adjust as needed */
+    justify-content:left; 
     gap: 0.25em;
     font-family: 'Maitree', serif;
   color:#edecff; 
     margin-left: 3%;
     text-align: left;
+	line-height: 2.2em;
+	font-size: 1.0em;
 }
 
 
