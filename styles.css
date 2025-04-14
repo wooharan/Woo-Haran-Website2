@@ -599,9 +599,7 @@ margin-right: -150%;
 	padding-bottom: 3%;
 	max-width: 37%;
 	margin-left: .6em;
-	background: 
-	radial-gradient(circle at center, transparent, transparent 50%, #000 51%),
-	conic-gradient(from 0deg, #383b46, transparent 25%, #333642 50%, transparent 75%, #353842 100%);
+
 }
 	
 
