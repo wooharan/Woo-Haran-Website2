@@ -218,7 +218,6 @@ margin-bottom: .3em;
 
 
 .intro_block {
-  display: flex;
   flex-direction: column;
   gap: 20px; /* optional: vertical spacing */
 }
