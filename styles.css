@@ -116,10 +116,7 @@ body, html {
 	margin-top: -9em;
 	margin-bottom: -6em;
 	}
-	.find_found_aeng{
-		display: flex;
-		gap: 1em;
-	}
+
 	
 }
 
@@ -212,10 +209,6 @@ margin-bottom: .3em;
 }
 
 
-/*creator*/
-.creator_body{
-	margin-top: -5.4em;
-}
 
 .line{
 	margin-top: 1em;
@@ -226,6 +219,24 @@ margin-bottom: .3em;
 .line2{
 	margin-top: -2.05em;
 }
+
+
+
+
+
+
+
+
+
+.intro_section {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* optional, centers horizontally */
+  gap: 20px; /* adds vertical spacing */
+}
+
+
+
 
 .bio_intro{
 	margin-top: 4em;
