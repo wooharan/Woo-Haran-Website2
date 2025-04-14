@@ -16,7 +16,6 @@ body, html {
 
 .thumbnail11 img{
 	width: 95%;
-	margin-left: -11%;
 	max-width: 600px;
 	mix-blend-mode: lighten;
 	margin-top: -1.9em;
@@ -257,11 +256,14 @@ display: inline-block;
   color:#edecff; 
     margin-left: 3%;
     text-align: left;
-	margin-bottom: 3em;
+	margin-bottom: 5em;
 	line-height: 2.2em;
 	font-size: 0.78em;
 }
 
+.aeng_sta{
+color: #edecff;
+}
 
 .artist{
 	font-size: 1.1em;
