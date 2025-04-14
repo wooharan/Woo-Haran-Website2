@@ -151,6 +151,7 @@ margin-bottom: .3em;
 .o8kk{
 margin-top:-4em;
 margin-bottom:-16em;
+	padding-bottom:-5em;
 
 }
 
@@ -256,7 +257,7 @@ display: inline-block;
   color:#edecff; 
     margin-left: 3%;
     text-align: left;
-	margin-bottom: 5em;
+	margin-bottom: 10em;
 	line-height: 2.2em;
 	font-size: 0.78em;
 }
@@ -264,6 +265,8 @@ display: inline-block;
 .aeng_sta{
 color: #edecff;
 }
+
+
 
 .artist{
 	font-size: 1.1em;
