@@ -335,11 +335,13 @@ margin-right: .5em;
 	
 
 .bio_paragraph_work{
-	font-family: "Red Hat Text", sans-serif;
-	font-weight: 300;
-	margin-bottom: 1.2em;
-	line-height: 2.2em;
-	font-size: 1.0em;
+display: inline-block;
+    justify-content:left; /* Adjust as needed */
+    gap: 0.25em;
+    font-family: 'Maitree', serif;
+  color:#edecff; 
+    margin-left: 3%;
+    text-align: left;
 }
 
 
@@ -356,7 +358,7 @@ margin-right: .5em;
 .email3{
 	margin-left: 3.4%;
 	margin-bottom: -1.6em;
-	color: rgb(239, 239, 255);
+	color:#edecff; 
 	font-family: "Saira Condensed", sans-serif;
 }
 
