@@ -524,7 +524,6 @@ margin-bottom: .3em;
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
 	font-weight: 300;
-
 	margin-bottom: 1.2em;
 	line-height: 2.2em;
 	font-size: 1.0em;
@@ -561,118 +560,9 @@ margin-right: .5em;
 	font-size: 1.1em;
 }
 
-.bio_paragraph_work{
-	margin-top: -2.5em;
-	margin-bottom: 4.8em;
-	font-size: 1.14em;
-	font-family: "Nanum Myeongjo", serif;
-	font-weight: 400;
-	font-style: normal;
-	color:rgb(238, 236, 251);
-	line-height: 2.6em;
-}
-
-
-.resume{
-	margin-top: 1em;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: left;
-	font-size: .8em;
-	color:#e5e7ff; 
-	padding: .5em;
-	letter-spacing: .005em;
-	line-height: 1.7em;
-}
-.achievements{
-	font-family: 'Anek Gujarati', serif;
-	font-size: 1.4em;
-	line-height: 2em;
-	margin-bottom: .5em;
-	margin-top: 9em;
-	color:#dedfec; 
-}
-.list{
-	margin-bottom: 2em;
-	line-height: 2.2em;
-	color:#dedfec; 
-}
-.portfolio {
-	margin-left:-.65em;
-	margin-top: 3.5em;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: left;
-	font-size: 1.1em;
-	color:#dedfec; 
-	padding: .5em;
-	letter-spacing: .005em;
-	line-height: 1.7em;
-}
-
-.portfolio a{
-	margin-top: 3.5em;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: left;
-	color:#e5e7ff; 
-	padding: .5em;
-	letter-spacing: .005em;
-	line-height: 1.7em;
-	margin-right: -.5em;
-}
-.Works{
-	font-family: 'Anek Gujarati', serif;
-	font-size: 1.4em;
-	margin-bottom: .5em;
-	margin-top: 2em;
-	color:#dedfec; 
-}
 
 
 
-
-.portrait img{
-	width: 130px;
-	align-items: center;
-	margin-left: .1em;
-	margin-bottom: 1.2em;
-	margin-top: .5em;
-	cursor: pointer; 
-}
-.popup{
-	display: none;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-	background-color: rgba(0, 0, 0, 0.7);
-} 
-.popup-content{
-	display: block;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
-.popup-content img{
-	display: block;
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-	width: 200%; 
-    max-width: 800px; 
-    height: auto; 
-	min-height: auto;
-    max-height: 80vh; 
-}
-.close {
-	color: #fff;
-	font-size: 2em;
-	position: absolute;
-	top: 10px;
-	right: 15px;
-	cursor: pointer;
-}
 .email{
 	font-family: "Saira Condensed", sans-serif;
 	margin-top: .7em;
