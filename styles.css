@@ -16,7 +16,7 @@ body, html {
 
 .thumbnail11 img{
 	width: 95%;
-	align-item: center;
+	margin-left:2.5%;
 	max-width: 600px;
 	mix-blend-mode: lighten;
 	margin-top: -1.9em;
