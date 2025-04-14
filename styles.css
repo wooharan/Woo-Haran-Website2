@@ -582,7 +582,11 @@ margin-bottom: .3em;
 margin-top: -.7em;
 }
 
-
+.bio_background{
+margin-left:5%;
+margin-right:5%;
+}
+	
 
 .bio_paragraph_artist{
 	font-family: "Red Hat Text", sans-serif;
