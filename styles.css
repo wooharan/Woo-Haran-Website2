@@ -501,7 +501,7 @@ margin-bottom: .3em;
 	text-align: left;
 	font-size: .85em;
 	color:#edecff; 
-	padding: .5em;
+	padding: 1.5em;
 	letter-spacing: .005em;
 	line-height: 1.7em;
 	margin-bottom: 3em;
@@ -807,6 +807,7 @@ margin-right: -150%;
 .bio_intro{
 	font-size: .9em;
 }
+	
 .bio_background{
 	margin-left: -10%;
 	margin-right: -125%;
