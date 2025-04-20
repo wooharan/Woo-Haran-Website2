@@ -24,7 +24,7 @@ body, html {
 }
 
 
-thumbnail11 iframe{
+.thumbnail11 iframe{
 width: 95%;
 	margin-left:2.5%;
 	max-width: 600px;
