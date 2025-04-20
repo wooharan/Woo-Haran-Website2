@@ -23,6 +23,17 @@ body, html {
 	margin-bottom: 3em;
 }
 
+
+thumbnail11 iframe{
+width: 95%;
+	margin-left:2.5%;
+	max-width: 600px;
+	mix-blend-mode: lighten;
+	margin-top: -1.9em;
+	margin-bottom: 3em;
+
+}
+
 .image-title22{
 	margin-top: -3.3em;
 	margin-bottom: 4em;
