@@ -25,10 +25,9 @@ body, html {
 
 .thumbnail12 img{
 	width: 150px;
-	margin-left: 2em;
-	mix-blend-mode: lighten;
+	margin-left: 3.2%;
 	margin-top: -1.9em;
-	margin-bottom: .3em;
+	margin-bottom: .8em;
 }
 
 .thumbnail11 iframe{
