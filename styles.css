@@ -63,7 +63,16 @@ body, html {
 	color:#d1d4eb; 
 	letter-spacing: .005em;
 }
-
+.image-title22{
+	margin-top: -2em;
+	margin-bottom: 1em;
+	max-width: 600px;
+	font-family: 'M PLUS 1', sans-serif;
+	text-align: center;
+	font-size: .3em;
+	color:#d1d4eb; 
+	letter-spacing: .005em;
+}
 
 	
 .score{
