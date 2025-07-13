@@ -41,6 +41,9 @@ body, html {
 	width: 95%;
 	margin-left:2.5%;
 }
+.bio_paragraph0{
+	margin-top: 1.5em;
+}
 
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
