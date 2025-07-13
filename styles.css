@@ -287,7 +287,7 @@ display: inline-block;
     justify-content:left; 
     gap: 0.25em;
     font-family: 'Maitree', serif;
-  color:#edecff; 
+  color:black; 
     margin-left: 3%;
     text-align: left;
 	margin-bottom: 8.3em;
@@ -296,7 +296,7 @@ display: inline-block;
 }
 
 .aeng_sta{
-color: #edecff;
+color: black;
 }
 
 
