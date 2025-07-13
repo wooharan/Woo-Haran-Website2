@@ -1,5 +1,5 @@
 body{
-	background-color:black;
+	background-color:white;
 	color:#edecff; 
 	margin-top: 1em;
 	overflow-y: auto;
@@ -60,7 +60,7 @@ body, html {
 	font-family: 'M PLUS 1', sans-serif;
 	text-align: center;
 	font-size: .8em;
-	color:#d1d4eb; 
+	color:black; 
 	letter-spacing: .005em;
 }
 .image-title24{
@@ -69,7 +69,7 @@ body, html {
 	font-family: 'M PLUS 1', sans-serif;
 	text-align: center;
 	font-size: .3em;
-	color:#d1d4eb; 
+	color:black; 
 	letter-spacing: .005em;
 }
 
@@ -96,7 +96,7 @@ body, html {
     justify-content:left; /* Adjust as needed */
     gap: 0.25em;
     font-family: 'Maitree', serif;
-    color: rgb(242, 244, 254);
+    color: black;
     margin-left: 3%;
     text-align: left;
 	margin-top: 4em;
@@ -167,7 +167,7 @@ margin-bottom: .3em;
 
 .line{
 	margin-top: 1em;
-	color:#edecff; 
+	color:black; 
 	height: 0px;
 
 }
@@ -190,7 +190,7 @@ margin-top:-4em;
 
 .bio_intro{
 	text-align: left;
-	color:#edecff; 
+	color:black; 
 	padding: .5em;
 	letter-spacing: .005em;
 	line-height: 1.7em;
@@ -315,7 +315,7 @@ color: #edecff;
 .email3{
 	margin-left: 3.4%;
 	margin-bottom: -1.6em;
-	color:#edecff; 
+	color:black; 
 	font-family: "Saira Condensed", sans-serif;
 }
 
@@ -380,7 +380,7 @@ color: #edecff;
 }
 .site-footer p{
 	font-family: 'M PLUS 1', sans-serif;
-	color: rgb(239, 239, 255);
+	color: black;
 	font-size: 0.85em;
 	margin-left: 3.2%;
 	margin-top: 0em;
