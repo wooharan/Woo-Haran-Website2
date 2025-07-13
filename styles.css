@@ -32,9 +32,9 @@ body, html {
 .thumbnail11 iframe{
 	max-width: 600px;
 	margin-bottom: .5em;
-	width: 91%;
+	width: 80%;
 	height: 200px;
-	margin-left: 4.5%;
+	margin-left: 10%;
 }
 
 
@@ -49,8 +49,7 @@ body, html {
 
 
 
-
-
+//////////////////////////////////////////////////////
 .bio_paragraph0{
 	color:black; 
 	max-width: 680px;
@@ -65,28 +64,22 @@ body, html {
 	font-family: "Red Hat Text", sans-serif;
 	margin-bottom: 1.2em;
 	line-height: 2.2em;
-	font-size: 0.95em;
+	font-size: 0.7em;
 	margin-left: 3%;
 }
 
 
-.email2{
-	margin-top:-2em;
-	margin-bottom: 0em;
-}
-
-.email3{
-	margin-left: 3.4%;
-	margin-bottom: -1.9em;
-	color:#808080; 
-	font-family:"Nanum Myeongjo", serif;
+@media screen and (min-width: 700px){
+	.bio_paragraph{
+		margin-bottom: 1.2em;
+		line-height: 2.2em;
+		font-size: 0.95em;
+		margin-left: 3%;
+	}
 }
 
 
-
-
-
-
+////////////////////////////////////////////////////
 .site-footer {
 	margin-top: 12em;
 }
@@ -124,6 +117,19 @@ body, html {
 .youtube svg{
 		stroke-width: 1px; 
 		fill: none;
+}
+
+
+.email2{
+	margin-top:-2em;
+	margin-bottom: 0em;
+}
+
+.email3{
+	margin-left: 3.4%;
+	margin-bottom: -1.9em;
+	color:#808080; 
+	font-family:"Nanum Myeongjo", serif;
 }
 
 
