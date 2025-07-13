@@ -31,7 +31,7 @@ body, html {
 }
 
 
-@media screen and (min-width: 700px){
+@media screen and (max-width: 700px){
 	.thumbnail11 iframe{
 		height: 300px;
 
@@ -62,7 +62,7 @@ body, html {
 }
 
 
-@media screen and (min-width: 700px){
+@media screen and (max-width: 700px){
 	.bio_paragraph{
 		margin-bottom: 1.2em;
 		line-height: 2.2em;
