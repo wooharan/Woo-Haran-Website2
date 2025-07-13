@@ -82,8 +82,8 @@ body, html {
 	display: flex;
 	margin-left: 5%;
 	gap: 1em;
-	margin-bottom: -2em;
-	margin-top: 1.3em;
+	margin-bottom: -5em;
+	margin-top: 3em;
 }
 
 .youtube img{
@@ -111,8 +111,8 @@ body, html {
 
 .email3{
 	font-size: 0.5em;
-	margin-left: 3.4%;
-	margin-bottom: -1.9em;
+	margin-left: 3.9%;
+	margin-bottom: -3em;
 	color:#808080; 
 	font-family:'M PLUS 1', sans-serif;
 }
