@@ -19,8 +19,16 @@ body, html {
 	margin-left:2.5%;
 	max-width: 600px;
 	margin-top: 1em;
-	margin-bottom: -1.5em;
+	margin-bottom: -1.8em;
 }
+.thumbnail111 img{
+	width: 95%;
+	margin-left:2.5%;
+	max-width: 600px;
+	margin-top: 2.8em;
+	margin-bottom: -1.8em;
+}
+
 
 .thumbnail12 img{
 	width: 150px;
@@ -262,7 +270,7 @@ margin-top:-4em;
 	font-family: "Red Hat Text", sans-serif;
 	margin-bottom: 1.2em;
 	line-height: 2.2em;
-	font-size: 0.8em;
+	font-size: 0.95em;
 	margin-left: 3%;
 }
 
