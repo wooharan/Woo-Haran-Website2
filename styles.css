@@ -254,13 +254,16 @@ margin-top:-4em;
 .bio_paragraph0{
 	color:black; 
 	max-width: 690px;
+	width: 95%;
+	margin-left:2.5%;
+	
 }
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
 	margin-bottom: 1.2em;
 	line-height: 2.2em;
 	font-size: 1.0em;
-	 margin-left: 3%;
+	margin-left: 3%;
 }
 
 .bio_paragraph2{
