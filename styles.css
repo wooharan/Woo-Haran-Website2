@@ -73,141 +73,7 @@ body, html {
 	letter-spacing: .005em;
 }
 
-	
-.score{
-	font-family: 'M PLUS 1', sans-serif;
-	margin-top: -2em;
-	font-size: 1em;
-}
 
-
-
-
-
-
-
-
-
-
-
-
-.work_headline{
-	display: inline-block;
-    justify-content:left; /* Adjust as needed */
-    gap: 0.25em;
-    font-family: 'Maitree', serif;
-    color: black;
-    margin-left: 3%;
-    text-align: left;
-	margin-top: 4em;
-	margin-bottom: -4em;
-}
-
-.work_title{
-	font-size: 1.8em;
-	margin-bottom: -.2em;
-}
-.work_year{
-	font-size: 1em;
-	margin-top: .6em;
-}
-.work_duration{
-	font-size: .85em;
-	margin-top: .78em;
-	margin-left: .25em;
-}
-.work_title2{
-	font-size: 1.32em;
-}
-.work_year2{
-	font-size: .9em;
-	margin-top: .4em;
-}
-.work_duration2{
-	font-family: 'Anek Gujarati', serif;
-	font-size: .8em;
-	margin-top: .9em;
-	margin-left: 0em;
-	margin-bottom: 1em;
-}
-.work_title_korean{
-font-family: 'Noto Serif KR', serif;
-font-weight: 300;
-font-size: 1.25em;
-margin-bottom: .3em;
-}
-.work_title_korean2{
-	font-family: 'Noto Serif KR', serif;
-	font-weight: 300;
-	font-size: 1.1em;
-	}
-.work_title_sub{
-	margin-top: .29em;
-	font-size: 1em;
-}
-
-.one_title{
-	display: flex;
-	gap:.3em;
-}
-
-@media screen and (min-width: 600px){
-	.work_headline{
-		margin-top: 8em;
-	}
-	.work_year2{
-		margin-left: .6em;
-	}
-	.work_firstline{
-		display: flex;
-	}
-}
-
-
-
-.line{
-	margin-top: 1em;
-	color:black; 
-	height: 0px;
-
-}
-.line2{
-	margin-top: -2.05em;
-}
-
-
-
-
-.o8kk{
-margin-top:-4em;
-}
-
-.O8kk_logo{
-	margin-bottom:-7em;
-	margin-left: 3%;
-
-}
-
-.bio_intro{
-	text-align: left;
-	color:black; 
-	padding: .5em;
-	letter-spacing: .005em;
-	line-height: 1.7em;
-	margin-bottom: 3em;
-	max-width: 800px;
-	margin-bottom: -.3em;
-
-}
-.bio{
-	margin-top: 3em;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: left;
-	padding: .5em;
-	letter-spacing: .005em;
-	line-height: 1.7em;
-	max-width: 800px;
-}
 
 
 
@@ -228,12 +94,6 @@ margin-top:-4em;
 }
 
 
-
-.artist{
-	font-size: 1.1em;
-}
-
-
 .email2{
 	margin-bottom: 0em;
 
@@ -249,22 +109,15 @@ margin-top:-4em;
 
 
 @media screen and (min-width: 900px){
-	.bio{
-		font-size: .8em;
-	}
 	.bio_paragraph_work{
 		font-size: 0.8em;
 	}
 }
 
 @media screen and (min-width: 1000px){	
-.bio_intro{
-	font-size: .8em;
-	}
-	
-.bio_background{
-	margin-left: -10%;
-	margin-right: -125%;
+	.bio_background{
+		margin-left: -10%;
+		margin-right: -125%;
 	}
 	.bio_name img{
 		max-width: 200px;
@@ -278,11 +131,9 @@ margin-top:-4em;
 
 
 
-
 .site-footer {
 	margin-top: 12em;
 }
-
 
 .site-footer p{
 	font-family: 'M PLUS 1', sans-serif;
