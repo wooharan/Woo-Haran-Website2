@@ -37,7 +37,8 @@ body, html {
 .bio_paragraph0{
 	color:black; 
 	max-width: 690px;
-	
+	width: 95%;
+	margin-left:2.5%;
 }
 
 .bio_paragraph{
