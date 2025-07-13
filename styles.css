@@ -7,11 +7,6 @@ body, html {
 }
 
 
-
-.thumbnail1 img{
-	width: 100%;
-}
-
 .thumbnail11 img{
 	width: 97%;
 	margin-left:1.5%;
@@ -19,7 +14,6 @@ body, html {
 	margin-top: 1em;
 	margin-bottom: -1.8em;
 }
-
 
 .thumbnail12 img{
 	width: 150px;
@@ -33,47 +27,11 @@ body, html {
 	margin-left:2%;
 	margin-top:3em;
 }
+
 .thumbnail11 iframe{
 	max-width: 600px;
 	margin-bottom: 2em;
 }
-
-
-
-.image-title22{
-	margin-top: -.3em;
-	margin-bottom: 5.5em;
-	max-width: 600px;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: center;
-	font-size: .3em;
-	color:#d1d4eb; 
-	letter-spacing: .005em;
-}
-.image-title23{
-	margin-top: -3.3em;
-	margin-bottom: 7.7em;
-	width: 100%;
-	max-width: 600px;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: center;
-	font-size: .8em;
-	color:black; 
-	letter-spacing: .005em;
-}
-.image-title24{
-	margin-top: -8em;
-	margin-bottom: 1em;
-	font-family: 'M PLUS 1', sans-serif;
-	text-align: center;
-	font-size: .3em;
-	color:black; 
-	letter-spacing: .005em;
-}
-
-
-
-
 
 
 .bio_paragraph0{
@@ -83,6 +41,7 @@ body, html {
 	margin-left:2.5%;
 	
 }
+
 .bio_paragraph{
 	font-family: "Red Hat Text", sans-serif;
 	margin-bottom: 1.2em;
@@ -96,6 +55,7 @@ body, html {
 	margin-bottom: 0em;
 
 }
+
 .email3{
 	margin-left: 3.4%;
 	margin-bottom: -1.9em;
@@ -105,23 +65,10 @@ body, html {
 
 
 
-
-@media screen and (min-width: 900px){
-	.bio_paragraph_work{
-		font-size: 0.8em;
-	}
-}
-
 @media screen and (min-width: 1000px){	
 	.bio_background{
 		margin-left: -10%;
 		margin-right: -125%;
-	}
-	.bio_name img{
-		max-width: 200px;
-	}
-	.bio_name2{
-		margin-top: -1.7em;
 	}
 }
 
