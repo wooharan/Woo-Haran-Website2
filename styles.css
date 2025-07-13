@@ -62,14 +62,6 @@ body, html {
 }
 
 
-@media screen and (max-width: 700px){
-	.bio_paragraph{
-		margin-bottom: 1.2em;
-		line-height: 2.2em;
-		font-size: 0.95em;
-		margin-left: 3%;
-	}
-}
 
 
 ////////////////////////////////////////////////////
