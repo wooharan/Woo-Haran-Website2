@@ -33,9 +33,22 @@ body, html {
 	max-width: 600px;
 	margin-bottom: .5em;
 	width: 91%;
-	height: 300px;
+	height: 200px;
 	margin-left: 4.5%;
 }
+
+
+@media screen and (min-width: 700px){
+	.thumbnail11 iframe{
+		height: 300px;
+
+}
+
+
+
+
+
+
 
 
 .bio_paragraph0{
@@ -119,5 +132,4 @@ body, html {
 		margin-right: -2.5%;
 		margin-left: -2.5%;
 	}
-
 }
