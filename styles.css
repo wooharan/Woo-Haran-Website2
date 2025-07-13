@@ -41,7 +41,7 @@ body, html {
 	width: 95%;
 	margin-left:2.5%;
 }
-.bio_paragraph0{
+.bio_paragraph00{
 	margin-top: 1.5em;
 }
 
@@ -67,14 +67,6 @@ body, html {
 	font-family: "Saira Condensed", sans-serif;
 }
 
-
-
-@media screen and (min-width: 1000px){	
-	.bio_background{
-		margin-left: -10%;
-		margin-right: -125%;
-	}
-}
 
 
 
