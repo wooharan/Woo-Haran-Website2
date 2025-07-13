@@ -2,7 +2,6 @@ body{
 	background-color:white;
 	overflow-y: auto;
 	align-content: center;
-	margin-left:30%;
 }
 body, html {
     overflow-x: hidden;
@@ -100,7 +99,6 @@ body, html {
 	gap: 1em;
 	margin-bottom: -.2em;
 	margin-top: 1.3em;
-
 }
 
 .youtube img{
