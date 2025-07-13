@@ -25,7 +25,7 @@ body, html {
 .thumbnail10{
 	width: 99%;
 	margin-left:.5%;
-	margin-top:.1em;
+	margin-top: 2em;
 }
 
 .thumbnail11 iframe{
@@ -37,8 +37,6 @@ body, html {
 .bio_paragraph0{
 	color:black; 
 	max-width: 690px;
-	width: 95%;
-	margin-left:2.5%;
 	
 }
 
