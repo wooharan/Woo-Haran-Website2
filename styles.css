@@ -37,9 +37,11 @@ body, html {
 	margin-bottom: .8em;
 }
 
-.thumbnail11 iframe{
+.thumbnail10{
 	width: 92%;
 	margin-left:4%;
+}
+.thumbnail11 iframe{
 	max-width: 600px;
 	margin-bottom: 2em;
 }
