@@ -393,10 +393,12 @@ color: black;
 }
 
 .youtube img{
+	mix-blend-mode: Exclusion;
 	margin-top: .08em;
 	width: 35px;
 }
 .instagram img{
+	mix-blend-mode: Exclusion;
 	margin-top: 5px;
 	margin-left: -5px;
 	width: 26px;
