@@ -214,52 +214,10 @@ margin-top:-4em;
 	line-height: 1.7em;
 	max-width: 800px;
 }
-.bio_englishname{
-	font-family: "Urbanist", sans-serif;
-	font-size: 1.7em;
-	margin-bottom: 0.4em;
-	max-width: 200px;
-}
-.bio_koreanname{
-	align-items: end;
-}
-
-.bio_name{
-	font-family: "Nanum Myeongjo", serif;
-	font-size: 2.4em;
-	margin-bottom: .47em;
-	margin-top: 1em;
-	display: flex;
-}
-.bio_name img{
- max-width: 180px;
- mix-blend-mode: lighten;
- margin-top: -1.6em;
- margin-left: -3.5em;
-}
-
-.bio_name2{
-	margin-top: -.7em;
-}
 
 
 
-.haran{
-	margin-top: .17em;
-	padding-right: .8em;
-	padding-bottom:0.5em;
-}
 
-.bio_role b{
-	font-family: "Marcellus", serif;
-	font-weight: 300;
-	font-size: 1em;
-
-}
-.bio_paragraph_intro{
-	margin-bottom: .8em;
-	margin-top: -1em;
-}
 .bio_paragraph0{
 	color:black; 
 	max-width: 690px;
@@ -275,42 +233,6 @@ margin-top:-4em;
 	margin-left: 3%;
 }
 
-.bio_paragraph2{
-margin-top: -.7em;
-	 margin-left: 3%;
-}
-
-
-.bio_paragraph_artist{
-	font-family: "Red Hat Text", sans-serif;
-	font-size: 1.0em;
-	line-height: 2.2em;
-	
-	margin-bottom: 1.2em;
-	margin-top: 5.5em;
-
-	padding-top: 3%;
-	padding-bottom: 3%;
-}
-	
-
-.bio_paragraph_work{
-display: inline-block;
-    justify-content:left; 
-    gap: 0.25em;
-    font-family: 'Maitree', serif;
-  color:black; 
-    margin-left: 3%;
-    text-align: left;
-	margin-bottom: 8.3em;
-	line-height: 2.2em;
-	font-size: 0.85em;
-}
-
-.aeng_sta{
-color: black;
-}
-
 
 
 .artist{
@@ -324,24 +246,9 @@ color: black;
 }
 .email3{
 	margin-left: 3.4%;
-	margin-bottom: -1.6em;
+	margin-bottom: -1.9em;
 	color:black; 
 	font-family: "Saira Condensed", sans-serif;
-}
-
-
-@media screen and (min-width: 470px){
-
-	.bio_name{
-			font-size: 2.4em;
-	}
-	.bio_name img{
-		margin-top: -1.6em;
-		margin-left: -2.8em;
-	}
-	.bio_role{
-		font-size: 1.1em;
-	}
 }
 
 
