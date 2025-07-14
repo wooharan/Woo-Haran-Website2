@@ -6,6 +6,9 @@ body, html {
     overflow-x: hidden;
 }
 
+.header{
+ margin-bottom:1.2em;
+}
 
 .thumbnail11 img{
 	width: 100%;
