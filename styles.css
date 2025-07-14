@@ -20,6 +20,7 @@ body, html {
 .thumbnail10{
 
 	margin-top: 2em;
+		max-width: 600px;
 }
 
 .thumbnail11 iframe{
@@ -44,6 +45,7 @@ body, html {
 }
 .bio_paragraph00{
 	margin-top: 1.5em;
+	max-width: 680px;
 }
 
 .bio_paragraph{
