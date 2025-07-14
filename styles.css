@@ -84,13 +84,13 @@ body, html {
 .youtube img{
 	mix-blend-mode: Exclusion;
 	margin-top: .08em;
-	width: 5%px;
+	width: 10%;
 }
 .instagram img{
 	mix-blend-mode: Exclusion;
 	margin-top: 5px;
 	margin-left: -5px;
-	width: 3%px;
+	width: 7%;
 }
 
 .youtube svg{
