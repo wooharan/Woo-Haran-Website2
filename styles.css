@@ -79,18 +79,19 @@ body, html {
 	gap: 1em;
 	margin-bottom: -5em;
 	margin-top: 3em;
+	width: 13%;
 }
 
 .youtube img{
 	mix-blend-mode: Exclusion;
 	margin-top: .08em;
-	width: 10%;
+	width: 36px;
 }
 .instagram img{
 	mix-blend-mode: Exclusion;
 	margin-top: 5px;
 	margin-left: -5px;
-	width: 7%;
+	width: 27px;
 }
 
 .youtube svg{
