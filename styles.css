@@ -102,6 +102,9 @@ body, html {
 }
 
 @media screen and (min-width: 490px){
+	.icons{
+	margin-top: 4em;
+	}
 	.youtube img{
 	width: 47px;
 	}
@@ -110,6 +113,9 @@ body, html {
 	}
 }
 @media screen and (min-width: 600px){
+	.icons{
+	margin-top: 4.7em;
+	}
 	.youtube img{
 	width: 57px;
 	}
