@@ -1,12 +1,16 @@
 body{
 	background-color:white;
 	overflow-y: auto;
-	margin-left:20%;
 }
 body, html {
     overflow-x: hidden;
 }
 
+@media screen and (min-width: 490px){
+	body{
+	margin-left:20%;
+	}
+}
 
 
 .thumbnail11 img{
@@ -98,17 +102,19 @@ body, html {
 }
 
 @media screen and (min-width: 490px){
-	.icons{
-		margin-bottom: -5em;
-		margin-top: 3em;
-		width: 19%;
+	.youtube img{
+	width: 47px;
+	}
+	.instagram img{;
+	width: 38px;
 	}
 }
 @media screen and (min-width: 600px){
-	.icons{
-		margin-bottom: -5em;
-		margin-top: 3em;
-		width: 25%;
+	.youtube img{
+	width: 57px;
+	}
+	.instagram img{;
+	width: 48px;
 	}
 }
 
