@@ -1,9 +1,11 @@
 body{
-	background-color:white;
-	overflow-y: auto;
-	  display: flex;
- 	 justify-content: center;
+	display: flex;
+ 	flex-direction: column;      /* stack elements vertically */
+ 	align-items: center;         /* center horizontally */
+  	justify-content: flex-start;
+	overflow-y: auto
 }
+
 body, html {
     overflow-x: hidden;
 }
