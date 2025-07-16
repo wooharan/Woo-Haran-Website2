@@ -95,6 +95,24 @@ body, html {
 	width: 27px;
 }
 
+@media screen and (min-width: 490px){
+	.icons{
+		margin-bottom: -5em;
+		margin-top: 3em;
+		width: 19%;
+	}
+}
+@media screen and (min-width: 600px){
+	.icons{
+		margin-bottom: -5em;
+		margin-top: 3em;
+		width: 25%;
+	}
+}
+
+
+
+
 .email2{
 	margin-top:-2em;
 	margin-bottom: 0em;
