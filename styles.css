@@ -1,15 +1,11 @@
 body{
 	background-color:white;
 	overflow-y: auto;
+	  display: flex;
+ 	 justify-content: center;
 }
 body, html {
     overflow-x: hidden;
-}
-
-@media screen and (min-width: 960px){
-	body{
-	margin-left:20%;
-	}
 }
 
 
