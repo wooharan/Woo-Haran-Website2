@@ -6,7 +6,7 @@ body, html {
     overflow-x: hidden;
 }
 
-@media screen and (min-width: 490px){
+@media screen and (min-width: 600px){
 	body{
 	margin-left:20%;
 	}
