@@ -72,6 +72,7 @@ body, html {
 ////////////////////////////////////////////////////
 .site-footer {
 	margin-top: 12em;
+	align-item: left;
 }
 
 .site-footer p{
@@ -95,7 +96,6 @@ body, html {
 .sns{
 	margin-top: 4.2em;
 	margin-bottom: -.4em;
-	blend-mode: Darker Color;
 }
 .sns p{
 	font-family: 'M PLUS 1', sans-serif;
@@ -104,7 +104,6 @@ body, html {
 	margin-left: 3.2%;
 	margin-top: 2em;
 	margin-bottom: -.2em;
-
 }
 .sns_first{
 	margin-top: -1.2em;
@@ -181,6 +180,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
