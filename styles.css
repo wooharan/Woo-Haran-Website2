@@ -89,6 +89,16 @@ body, html {
 	width: 13%;
 }
 
+.sns p{
+	font-family: 'M PLUS 1', sans-serif;
+	color: black;
+	font-size: 0.85em;
+	margin-left: 3.2%;
+	margin-top: 0em;
+	padding-top: 1em;
+}
+
+
 .youtube img{
 	mix-blend-mode: Exclusion;
 	margin-top: .08em;
@@ -152,4 +162,5 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
