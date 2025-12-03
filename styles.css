@@ -13,8 +13,8 @@ body, html {
     overflow-x: hidden;
 }
 
-.header{
-	margin-bottom: 2.2em;
+.header img{
+	margin-bottom: 2em;
 }
 
 
@@ -182,6 +182,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
