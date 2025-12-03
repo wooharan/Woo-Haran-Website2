@@ -94,7 +94,8 @@ body, html {
 	color: black;
 	font-size: 0.85em;
 	margin-left: 3.2%;
-	margin-top: 0em;
+	margin-top: 2em;
+	margin-bottom: -1em;
 	text-decoration: none;
 }
 
@@ -162,6 +163,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
