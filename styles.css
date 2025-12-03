@@ -27,7 +27,7 @@ body, html {
 .thumbnail10{
 
 	margin-top: 2em;
-		max-width: 600px;
+	max-width: 600px;
 }
 
 .thumbnail11 iframe{
@@ -90,8 +90,9 @@ body, html {
 }
 
 .sns{
-	margin-top: 5em;
-	margin-bottom: -1em;
+	margin-top: 3em;
+	margin-bottom: 0em;
+	blend-mode: Darker Color;
 }
 .sns p{
 	font-family: 'M PLUS 1', sans-serif;
@@ -175,6 +176,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
