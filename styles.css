@@ -101,7 +101,7 @@ body, html {
 	margin-left: 3.2%;
 	margin-top: 2em;
 	margin-bottom: -.2em;
-	text-decoration: none;
+	align-text: right;
 }
 .sns_first{
 	margin-top: -1.2em;
@@ -176,6 +176,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
