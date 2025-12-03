@@ -95,8 +95,11 @@ body, html {
 	font-size: 0.85em;
 	margin-left: 3.2%;
 	margin-top: 2em;
-	margin-bottom: -1em;
+	margin-bottom: -.2em;
 	text-decoration: none;
+}
+.sns_inner{
+	margin-top: -1.2em;
 }
 
 
@@ -163,6 +166,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
