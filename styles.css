@@ -91,7 +91,7 @@ body, html {
 
 .sns{
 	margin-top: 3em;
-	margin-bottom: 0em;
+	margin-bottom: -.4em;
 	blend-mode: Darker Color;
 }
 .sns p{
@@ -176,6 +176,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
