@@ -73,6 +73,7 @@ body, html {
 .site-footer {
 	margin-top: 12em;
 	align-item: left;
+	min-width: 100px;
 }
 
 .site-footer p{
@@ -96,7 +97,6 @@ body, html {
 .sns{
 	margin-top: 1em;
 	margin-bottom: -.4em;
-	min-width: 50px;
 }
 .sns p{
 	font-family: 'M PLUS 1', sans-serif;
@@ -181,6 +181,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
