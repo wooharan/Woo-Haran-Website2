@@ -73,6 +73,7 @@ body, html {
 .site-footer footer{
 	margin-top: 2em;
 	align-item: left;
+	min-width: 100px;
 }
 
 .site-footer p{
@@ -180,6 +181,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
