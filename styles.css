@@ -70,9 +70,9 @@ body, html {
 
 
 ////////////////////////////////////////////////////
-.site-footer footer{
+.site-footer{
 	margin-top: 2em;
-	align-item: left;
+	text-align: left;
 	min-width: 100px;
 }
 
@@ -173,7 +173,6 @@ body, html {
 	margin-left: 3.2%;
 	margin-top: 2em;
 	margin-bottom: .8em;
-	item-align: center;
 }
 
 @media screen and (min-width: 700px){
@@ -182,6 +181,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 }
+
 
 
 
