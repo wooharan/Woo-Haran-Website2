@@ -104,7 +104,6 @@ body, html {
 	color: black;
 	font-size: 0.74em;
 	margin-left: 3.2%;
-	margin-top: 2em;
 	margin-bottom: -.2em;
 }
 .sns_first{
@@ -175,12 +174,6 @@ body, html {
 	margin-bottom: .8em;
 }
 
-@media screen and (min-width: 700px){
-	.site-footer{
-		margin-right: -2.5%;
-		margin-left: -2.5%;
-	}
-} 
 
 
 
