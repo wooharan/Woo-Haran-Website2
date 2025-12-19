@@ -71,7 +71,6 @@ body, html {
 ////////////////////////////////////////////////////
 .site-footer{
 	margin-top: 2em;
-	text-align: left;
 	width: 94%;
 	margin-left: 3%;
 	display: block;
@@ -79,6 +78,7 @@ body, html {
 
 .site-footer p{
 	font-family: 'M PLUS 1', sans-serif;
+	text-align: left;
 	color: black;
 	font-size: 0.85em;
 	margin-top: 0em;
@@ -114,6 +114,32 @@ body, html {
 	margin-bottom: .6em;
 /* 	display: flex;*/
 }
+
+.email2{
+	margin-top:-2em;
+	margin-bottom: 0em;
+}
+
+.email3{
+	font-size: 0.82em;
+	margin-left: 3.4%;
+	margin-bottom: -1em;
+	color:#808080; 
+	font-family:'M PLUS 1', sans-serif;
+}
+	
+.thumbnail12 img{
+	width: 150px;
+	margin-left: 3.2%;
+	margin-top: 2em;
+	margin-bottom: .8em;
+	align-item: left;
+}
+
+
+
+
+
 
 
 /*
@@ -154,36 +180,3 @@ body, html {
 	}
 }
 */
-
-
-.email2{
-	margin-top:-2em;
-	margin-bottom: 0em;
-}
-
-.email3{
-	font-size: 0.82em;
-	margin-left: 3.4%;
-	margin-bottom: -1em;
-	color:#808080; 
-	font-family:'M PLUS 1', sans-serif;
-}
-	
-.thumbnail12 img{
-	width: 150px;
-	margin-left: 3.2%;
-	margin-top: 2em;
-	margin-bottom: .8em;
-	align-item: left;
-}
-
-
-
-
-
-
-
-
-
-
-
