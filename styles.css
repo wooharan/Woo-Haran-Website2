@@ -72,7 +72,6 @@ body, html {
 .site-footer{
 	margin-top: 2em;
 	text-align: left;
-	max-width: 600px;
 	width: 94%;
 	margin-left: 3%;
 }
@@ -115,13 +114,8 @@ body, html {
 /* 	display: flex;*/
 }
 
-.copyright[
-	width:95%;
-}
 
-
-
-
+/*
 .youtube img{
 	mix-blend-mode: Exclusion;
 	margin-top: .08em;
@@ -158,6 +152,8 @@ body, html {
 	width: 35px;
 	}
 }
+*/
+
 
 .email2{
 	margin-top:-2em;
@@ -179,6 +175,7 @@ body, html {
 	margin-bottom: .8em;
 	align-item: left;
 }
+
 
 
 
