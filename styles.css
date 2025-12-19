@@ -45,7 +45,6 @@ body, html {
 
 
 
-
 //////////////////////////////////////////////////////
 .bio_paragraph0{
 	color:black; 
@@ -178,7 +177,9 @@ body, html {
 	margin-left: 3.2%;
 	margin-top: 2em;
 	margin-bottom: .8em;
+	align-item: left;
 }
+
 
 
 
