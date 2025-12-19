@@ -74,6 +74,7 @@ body, html {
 	text-align: left;
 	width: 94%;
 	margin-left: 3%;
+	display: block;
 }
 
 .site-footer p{
@@ -175,6 +176,7 @@ body, html {
 	margin-bottom: .8em;
 	align-item: left;
 }
+
 
 
 
