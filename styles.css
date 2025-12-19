@@ -108,11 +108,11 @@ body, html {
 	margin-bottom: -.2em;
 }
 .sns_first{
-	margin-top: -1.2em;
+	margin-top: 0em;
 	display: flex;
 }
 .sns_second{
-	margin-top: -1.3em;
+	margin-top: 0em;
 	margin-bottom: .6em;
 	display: flex;
 }
@@ -181,6 +181,7 @@ body, html {
 		margin-left: -2.5%;
 	}
 } 
+
 
 
 
