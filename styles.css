@@ -84,15 +84,6 @@ body, html {
 	margin-top: 0em;
 }
 
-.icons{
-	display: flex;
-	margin-left: 30px;
-	gap: 1em;
-	margin-bottom: -1em;
-	margin-top: 3em;
-	width: 13%;
-}
-
 .sns{
 	margin-top: 1em;
 	margin-bottom: -.4em;
@@ -143,6 +134,16 @@ body, html {
 
 
 /*
+
+.icons{
+	display: flex;
+	margin-left: 30px;
+	gap: 1em;
+	margin-bottom: -1em;
+	margin-top: 3em;
+	width: 13%;
+]
+
 .youtube img{
 	mix-blend-mode: Exclusion;
 	margin-top: .08em;
@@ -180,3 +181,4 @@ body, html {
 	}
 }
 */
+
