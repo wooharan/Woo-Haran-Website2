@@ -89,6 +89,10 @@ body, html {
 	margin-bottom: -.4em;
 	width: 95%;
 }
+.sns img{
+	width: 95%;
+}
+
 .sns p{
 	font-family: 'M PLUS 1', sans-serif;
 	color: black;
@@ -107,8 +111,8 @@ body, html {
 }
 
 .email2{
-	margin-top:0em;
-	margin-bottom: 0em;
+	margin-top: 3em;
+	margin-bottom: 1.5em;
 }
 
 .email3{
@@ -181,5 +185,6 @@ body, html {
 	}
 }
 */
+
 
 
