@@ -71,7 +71,7 @@ body, html {
 ////////////////////////////////////////////////////
 .site-footer{
 	margin-top: 5em;
-	margin-bottom: 4em;
+	padding-bottom: 4em;
 	width: 94%;
 	margin-left: 3%;
 	display: block;
@@ -116,7 +116,7 @@ body, html {
 }
 
 .email3{
-	font-size: 0.79em;
+	font-size: 0.78em;
 	margin-left: 3.4%;
 	margin-bottom: .7em;
 	color:#808080; 
