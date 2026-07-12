@@ -29,7 +29,6 @@ body, html {
 
 
 .thumbnail10{
-
 	margin-top: 2em;
 	max-width: 600px;
 }
@@ -156,6 +155,9 @@ margin-top: .5em;
 	text-align: right;
 	color:#808080; 
 	font-family:'M PLUS 1', sans-serif;
+	width: 100%;
+	margin-left:0%;
+	max-width: 600px;
 }
 
 .credit2{
@@ -165,6 +167,9 @@ margin-top: .5em;
 	text-align: right;
 	color:#808080; 
 	font-family:'M PLUS 1', sans-serif;
+	width: 100%;
+	margin-left:0%;
+	max-width: 600px;
 }
 
 
